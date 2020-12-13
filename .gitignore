@@ -1,0 +1,12 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cshrc
+.gitconfig
+.oracle_jre_usage/
+.ssh/
+.tcshrc
+.viminfo
+anaconda-ks.cfg
+original-ks.cfg
